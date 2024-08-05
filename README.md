@@ -3,6 +3,4 @@
 ## 💡 About me 
 Programming student in [42 Málaga](https://42.fr/), where I am developing, mainly, my skills in C and C++.
 ## 💻 42 Progress 
-
-
-
+[![LIBFT](https://raw.githubusercontent.com/ilopez-r/badges/main/badges/libftm.png?token=GHSAT0AAAAAACVW47MTX5626OWFJBBCSRFEZVQ2JJA)](https://github.com/ilopez-r/libft) [![FT_PRINTF](https://raw.githubusercontent.com/ilopez-r/badges/main/badges/ft_printfm.png?token=GHSAT0AAAAAACVW47MSUXF3QU673VHSORM2ZVQ2L6Q)](https://github.com/ilopez-r/ft_printf)
